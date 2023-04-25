@@ -12,6 +12,14 @@ Feel free to contact me :raising_hand:
   <a href="https://www.linkedin.com/in/galina-sazonova-02a892262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
+
+<div align="left">
+  <a href="https://github.com/Galina-S">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Galina-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
+ <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galina-S&layout=compact&langs_count=7&theme=dracula">
+</div>
+
+
 <!--
 **Galina-S/Galina-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
