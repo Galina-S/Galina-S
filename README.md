@@ -1,10 +1,17 @@
 ### Hi, my name is Galina 👋
 
-I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 
+and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 
 
 Feel free to contact me :raising_hand:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=galina-s&label=Profile%20views&color=0e75b6&style=flat" alt="galina-s" /> </p>
+
+
+<div align="center">
+  <a href ="mailto:galyna.sazonova@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/galina-sazonova-02a892262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>  
+
 <!--
 **Galina-S/Galina-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
