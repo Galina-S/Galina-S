@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg](https://ibb.co/Zgb3TCL)" width="35%"/>
+</p>
+
 ### Hi, my name is Galina 👋
 
 and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 
