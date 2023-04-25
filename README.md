@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ibb.co/Zgb3TCL" width="200px"/>
+  <a href="https://ibb.co/Zgb3TCL"><img src="https://i.ibb.co/Zgb3TCL/unnamed-1.jpg" alt="unnamed-1" border="0"></a>
 </p>
 
 ### Hi, my name is Galina 👋
