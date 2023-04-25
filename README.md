@@ -4,7 +4,7 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 
 Feel free to contact me :raising_hand:
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=galina-s&label=Profile%20views&color=0e75b6&style=flat" alt="galina-s" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=galina-s&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="galina-s" /> </p>
 
 
 <div align="center">
@@ -15,8 +15,8 @@ Feel free to contact me :raising_hand:
 
 <div align="left">
   <a href="https://github.com/Galina-S">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=galina-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
- <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galina-s&layout=compact&langs_count=7&theme=dracula">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=galina-s&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"></a>
+ <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galina-s&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
 
