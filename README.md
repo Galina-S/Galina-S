@@ -13,7 +13,7 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Galina-S&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="galina-s" /> </p>
 
 <hr>
-<div align="left">
+<div align="center">
   <a href="https://github.com/Galina-S">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galina-s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></a>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galina-s&layout=compact&langs_count=7&theme=tokyonight">
