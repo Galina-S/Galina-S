@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi, my name is Galina 👋
 
+I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 
+
+Feel free to contact me :raising_hand:
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=galina-s&label=Profile%20views&color=0e75b6&style=flat" alt="galina-s" /> </p>
 <!--
 **Galina-S/Galina-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
