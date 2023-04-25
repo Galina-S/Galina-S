@@ -15,8 +15,8 @@ Feel free to contact me :raising_hand:
 
 <div align="left">
   <a href="https://github.com/Galina-S">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Galina-S&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
- <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galina-S&layout=compact&langs_count=7&theme=dracula">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=galina-s&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
+ <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galina-s&layout=compact&langs_count=7&theme=dracula">
 </div>
 
 
