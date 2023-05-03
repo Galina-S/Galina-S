@@ -14,6 +14,7 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 </div>  
 <br>
 
+<div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Galina-S&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="galina-s" /> </p>
 
 
@@ -41,6 +42,7 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 
 </p>
+</div>
 
 <hr>
 <div align="center">
