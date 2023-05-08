@@ -3,7 +3,7 @@
 </p>
 
 ### Hi, my name is Galina 🇺🇦 
-and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages and frameworks. 
+and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages, tools and frameworks. 
 
 <p align="center">Feel free to contact me :raising_hand:</p>
 
