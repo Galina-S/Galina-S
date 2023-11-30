@@ -1,11 +1,7 @@
-<p align="center">
- <a href="https://ibb.co/khZzw5T"><img src="https://i.ibb.co/khZzw5T/unnamed-1-1.jpg" alt="unnamed-1-1" border="0"></a>
-</p>
+<h3 align="center">Hi, my name is Galina,<span> and I am a web developer located in Hamburg <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hamburg-symbol.svg/700px-Hamburg-symbol.svg.png" alt="Hamburg Symbol" height="24" width="20"></span></h3> 
 
-### Hi, my name is Galina 🇺🇦 
-and I am a Full-Stack developer and constantly driven to expand my knowledge of diverse programming languages, tools and frameworks. 
-
-<p align="center">Feel free to contact me :raising_hand:</p>
+<p align="center">My page at: <a href="https://galina-s-portfolioseite.vercel.app">Portfolio-Website</a></p>
+<p align="center">Feel free to contact me <span>&#x1F64B;&#x200D;&#x2640;&#xFE0F;</span></p> 
 
 <div align="center">
   <a href ="mailto:galyna.sazonova@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,10 +11,7 @@ and I am a Full-Stack developer and constantly driven to expand my knowledge of 
 
 <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Galina-S&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="galina-s" /> </p>
-
-
 <h3 align="center">Languages and Tools I use:</h3>
-
 <p align="center"> 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
