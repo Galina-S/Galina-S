@@ -1,6 +1,5 @@
 <h3 align="center">Hi, my name is Galina,<span> and I am a web developer located in Hamburg <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hamburg-symbol.svg/700px-Hamburg-symbol.svg.png" alt="Hamburg Symbol" height="24" width="20"></span></h3> 
 
-<p align="center">My page at: <a href="https://galina-s-portfolioseite.vercel.app">Portfolio-Website</a></p>
 <p align="center">Feel free to contact me <span>&#x1F64B;&#x200D;&#x2640;&#xFE0F;</span></p> 
 
 <div align="center">
